@@ -2,10 +2,10 @@
 a python tool for scan web page
 
 # Features :
-* 1. SQLI Scanner
-* 2. XSS Scanner
-* 3. LFI Scanner
-* 4. PORT Scanner
+* SQLI Scanner
+* XSS Scanner
+* LFI Scanner
+* PORT Scanner
 
 # language :
 * python 3.8.3
@@ -33,8 +33,8 @@ $git clone https://www.github.com/teamx4ck/xcan
 $ python xcan.py
 ```
 # author :
-* 1. Rakib Hossain
-* 2. thepythoncode.com
+* Rakib Hossain
+* thepythoncode.com
 
 # FB Group
 * Name : x4ck cyber army
