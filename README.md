@@ -22,6 +22,10 @@ $apt install python
 
 $apt install nmap
 
+$pip install requests
+
+$pip install bs4
+
 $git clone https://www.github.com/teamx4ck/xcan
 ```
 # Run :
